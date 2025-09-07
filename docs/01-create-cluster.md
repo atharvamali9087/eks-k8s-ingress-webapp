@@ -1,1 +1,1 @@
-eksctl create cluster --name CLUSTER-NAME --region REGION --fargate
+    eksctl create cluster --name CLUSTER-NAME --region REGION --fargate
