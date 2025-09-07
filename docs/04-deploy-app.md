@@ -1,4 +1,4 @@
-kubectl apply -f https://raw.githubusercontent.com/atharvamali9087/eks-k8s-ingress-webapp/refs/heads/main/webapp.yaml
+    kubectl apply -f https://raw.githubusercontent.com/atharvamali9087/eks-k8s-ingress-webapp/refs/heads/main/webapp.yaml
 
 VERIFY DEPLOYMENT
 
