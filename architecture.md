@@ -1,3 +1,4 @@
+```text
                         ┌────────────────────────────┐
                         │      AWS Account           │
                         │ (IAM Users, Roles, MFA)    │
@@ -44,3 +45,4 @@
                               │   End User    │
                               │ (Browser/API) │
                               └───────────────┘
+```
